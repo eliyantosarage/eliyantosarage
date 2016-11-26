@@ -1,8 +1,12 @@
-/*
-*
-BLOGGER TOC WITH ACCORDION EFFECT (SORT BY LABEL)
-*
-*/
+/**
+ * BLOGGER TOC WITH ACCORDION EFFECT (SORT BY LABEL)
+ * ---------------------------------------------------
+ * by Taufik Nurrohman
+ * URL: http://gplus.to/tovic
+ * Modified by Arlina Fitriyani
+ * URL: http://gplus.to/arlina
+ * ---------------------------------------------------
+ */
 
 /*
 var toc_config = {

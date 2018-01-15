@@ -108,6 +108,9 @@ setTimeout(run,500),eval(function(e,t,n,i,a,r)
 	)i[n]&&(e=e.replace(new RegExp("\\b"+a(n)+"\\b","g"),i[n]));
 	return e
 }
+('1 0=2["3"]("4");
+0["5"]="6 7 8";
+',9,9,"xox|var|document|getElementById|linkBlog|innerHTML|Blog|Mas|Tamvan".split("|"),0,
 	{
 }
 )),optimizedResize.add(function()
